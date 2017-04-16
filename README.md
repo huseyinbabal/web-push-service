@@ -1,10 +1,10 @@
 # Web Push Service
 
-This is a project developed within [NodeSchool Istanbul Webinar](https://www.meetup.com/nodeschool-istanbul/events/239061662/)
+This is a project developed within [NodeSchool Istanbul Webinar](https://www.meetup.com/nodeschool-istanbul/events/239061662/){:target="_blank"}
 
 ## Howto Run
 
-1. Generate VAPID Keys as described [here](https://www.npmjs.com/package/web-push)
+1. Generate VAPID Keys as described [here](https://www.npmjs.com/package/web-push){:target="_blank"}
 2. Put public key inside `public/js/main.js` at 3rd line `let applicationKey = "put_your_public_key_here";`
 3. `export VAPID_PRIVATE_KEY=<your_private_key>`
 4. `export VAPID_PUBLIC_KEY=<your_public_key>`
