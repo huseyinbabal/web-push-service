@@ -1,6 +1,6 @@
 # Web Push Service
 
-This is a project developed within https://www.meetup.com/nodeschool-istanbul/events/239061662/
+This is a project developed within [NodeSchool Istanbul Webinar](https://www.meetup.com/nodeschool-istanbul/events/239061662/)
 
 ## Howto Run
 
