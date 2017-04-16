@@ -62,7 +62,7 @@ app.post('/push', (req, res) => {
 
                     const pushOptions = {
                         vapidDetails: {
-                            subject: "https://web.push.io",
+                            subject: "http://nodeschool.ist/",
                             privateKey: process.env.VAPID_PRIVATE_KEY,
                             publicKey: process.env.VAPID_PUBLIC_KEY
                         },

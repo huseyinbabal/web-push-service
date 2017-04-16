@@ -1,6 +1,6 @@
 let isSubscribed = false;
 let swRegistration = null;
-let applicationKey = "BHN6VdFKPx6bAeHj_-Qkzzv_RFXZ1riDKg_SlQpHehgRM7qdft0JZ_ZNcJBYc-a0OEzNBMiiPjLvZ7eB4kB7YLc";
+let applicationKey = "put_your_public_key_here";
 
 function urlB64ToUint8Array(base64String) {
     const padding = '='.repeat((4 - base64String.length % 4) % 4);
